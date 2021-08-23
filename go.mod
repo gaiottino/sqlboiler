@@ -1,4 +1,4 @@
-module github.com/volatiletech/sqlboiler/v4
+module github.com/gaiottino/sqlboiler/v5
 
 go 1.14
 
